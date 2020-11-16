@@ -1,0 +1,3 @@
+[submodule "indee_pwa"]
+	path = indee_pwa
+	url = ./
